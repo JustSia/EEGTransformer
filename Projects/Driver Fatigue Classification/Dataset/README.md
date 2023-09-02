@@ -2,7 +2,10 @@
 This repository contains the EEG driver drowsiness dataset.
 
 ## Description
-The dataset comprises EEG signals from 11 subjects with labels indicating either an alert or drowsy state. The data can be opened using Matlab. This dataset was extracted for research purposes from another public dataset:
+The dataset comprises EEG signals from 11 subjects with labels indicating either an alert or drowsy state. The data can be opened using Matlab. 
+
+This dataset was extracted for research purposes from another public dataset:
+
 [Cao, Z., et al., Multi-channel EEG recordings during a sustained-attention driving task. Scientific data, 2019. 6(1): p. 1-8.](https://arxiv.org/abs/1809.06534)
 
 ## Dataset Variables
